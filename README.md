@@ -9,9 +9,13 @@ Let's build something awesome together!
 ### About Me
 
 🌱 I’m currently pursuing Bachelor's degree in Information Technology at Mumbai University.
+
 💻 I enjoy working on front-end and back-end development projects.
+
 🎓 I'm constantly learning and exploring new technologies to stay up-to-date with the latest industry trends.
+
 ⚡ Fun fact: I'm also an avid gamer and love playing video games in my free time.
+
 
 ## Skills
 
