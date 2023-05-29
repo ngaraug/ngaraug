@@ -31,6 +31,7 @@ I'm continuously expanding my skillset and exploring new technologies. If you ha
 I'm always excited to connect with fellow developers and learn from each other. Feel free to reach out to me through the following channels:
 
 LinkedIn: https://www.linkedin.com/in/gaurang-mestry-6b84a0230
+
 Email: www.gaurangbmestry3@gmail.com
 
 Let's collaborate, share ideas, and create amazing projects together!
